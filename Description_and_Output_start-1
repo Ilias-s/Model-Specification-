@@ -1,0 +1,11 @@
+I learnt of I can customize local models llama3.2:3b for a specific output:
+
+For the prompt: Give me a motivational quote for people who struggle looking for a job
+
+I got: 
+Generated Text: Here's a motivational quote that might inspire individuals who are struggling to find employment:
+"You don't have to be great to start, but you have to start to be great. Every 'no' brings you closer to the 'yes' you're meant to say yes to."
+This quote emphasizes the importance of taking action and persistence in your job search. It reminds us that rejection is a natural part of the process, but it's also an opportunity to learn and grow.
+Remember, your worth and value as a person are not defined by your current job status or lack thereof. You have skills, talents, and experiences that make you unique and valuable, and with persistence and determination, you can find a fulfilling career path that aligns with your passions and goals.
+
+Reminder: It is a locally running model. The syntax and semantic are quiet sophisticated. Reading this I can feel a change of emotion. 
