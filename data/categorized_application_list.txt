@@ -1,0 +1,37 @@
+Hier ist die kategorisierte Liste mit alphabetischer Sortierung:
+
+### 1. **Unterlagen**  
+- Bewerbung  
+- Anschreiben  
+- Lebenslauf  
+- CV  
+- Portfolio  
+
+### 2. **Online-Präsenz**  
+- Bewerbung  
+- Anschreiben  
+- Lebenslauf  
+- CV  
+- Portfolio  
+- LinkedIn Profil  
+- Xing Profil  
+
+### 3. **Durchführung**  
+- Interview  
+- Vorstellungsgespräch  
+- Assumption  
+- Soft Skills  
+
+### 4. **Karriereplattform**  
+- Karriereplattform  
+- Jobmesse  
+
+### 5. **Vertragsthemen**  
+- Arbeitsvertrag  
+- Gehaltsverhandlung  
+
+*Beispiel:*  
+- **Bewerbung**: Allgemeine Bewerbungsfristen, Bewerbungsfoto, Motivationsschreiben, Karriereplattform  
+- **Anschreiben**: Anschreiben-Template, Lebenslauf-Design, Karriereplattform, Jobmesse  
+
+Diese Kategorisierung ist sinnvoll, um professionell und strukturiert zu gestalten.

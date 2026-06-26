@@ -4,6 +4,7 @@ import os
 #selbes Modell oder anderes. Eigentlich das für Dokumentenevaluation bestmögliche
 
 #Use this one because it is fine tuned on Jobsearch tasks and overall situation
+#I can set any other local model instead of current one
 model = "Jobhelper:latest"
 
 #setting up input output paths
