@@ -1,37 +1,31 @@
-Hier ist die kategorisierte Liste mit alphabetischer Sortierung:
+1. **Unterlagen**:  
+   - Bewerbung  
+   - CV  
+   - Lebenslauf  
+   - Motivationsschreiben  
+   - Stellenausschreibung  
+   - Karriereplattform  
 
-### 1. **Unterlagen**  
-- Bewerbung  
-- Anschreiben  
-- Lebenslauf  
-- CV  
-- Portfolio  
+2. **Online-Präsenz**:  
+   - LinkedIn Profil  
+   - Xing Profil  
+   - Portfolio  
+   - Referenzen  
 
-### 2. **Online-Präsenz**  
-- Bewerbung  
-- Anschreiben  
-- Lebenslauf  
-- CV  
-- Portfolio  
-- LinkedIn Profil  
-- Xing Profil  
+3. **Strategie**:  
+   - Bewerbungsstrategie  
+   - Karriereplattform  
+   - Jobmesse  
+   - Elevator Pitch  
 
-### 3. **Durchführung**  
-- Interview  
-- Vorstellungsgespräch  
-- Assumption  
-- Soft Skills  
+4. **Vertragsthemen**:  
+   - Arbeitsvertrag  
+   - Personalabteilung  
+   - HR  
+   - Headhunter  
 
-### 4. **Karriereplattform**  
-- Karriereplattform  
-- Jobmesse  
-
-### 5. **Vertragsthemen**  
-- Arbeitsvertrag  
-- Gehaltsverhandlung  
-
-*Beispiel:*  
-- **Bewerbung**: Allgemeine Bewerbungsfristen, Bewerbungsfoto, Motivationsschreiben, Karriereplattform  
-- **Anschreiben**: Anschreiben-Template, Lebenslauf-Design, Karriereplattform, Jobmesse  
-
-Diese Kategorisierung ist sinnvoll, um professionell und strukturiert zu gestalten.
+**Erklärung**:  
+- **Unterlagen** enthalten Bewerbung, CV, Lebenslauf und mehr.  
+- **Online-Präsenz** beziehen sich auf digitale Tools und Präsentationen.  
+- **Strategie** beziehen sich auf Planung und Kommunikation.  
+- **Vertragsthemen** beinhalten Verträge, Karriereplatten und mehr.
